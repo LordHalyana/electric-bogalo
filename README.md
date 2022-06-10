@@ -8,3 +8,4 @@ Overall a fun project I tried to add some stuff that would be a challenge instea
 * An admin page
 * Make the application prettier overall
 * Image upload
+* Optimize the code a bit
