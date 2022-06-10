@@ -9,3 +9,4 @@ Overall a fun project I tried to add some stuff that would be a challenge instea
 * Make the application prettier overall
 * Image upload
 * Optimize the code a bit
+* Add a rich text editor
